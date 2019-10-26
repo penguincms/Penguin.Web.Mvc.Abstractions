@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Penguin.Web.Mvc.Abstractions.Local</name>
+        <name>Penguin.Web.Mvc.Abstractions</name>
     </assembly>
     <members>
         <member name="T:Penguin.Web.Mvc.Abstractions.IViewRenderService">
