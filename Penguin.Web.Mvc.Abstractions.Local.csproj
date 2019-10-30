@@ -5,5 +5,7 @@
     <Version>1.0.1</Version>
     <Description>Abstractions and interfaces for Penguin MVC specific components that allow for use of Penguin MVC related services without needing to use Penguin implementations</Description>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Penguin.Web.Mvc.Abstractions</AssemblyName>
+    <RootNamespace>Penguin.Web.Mvc.Abstractions</RootNamespace>
   </PropertyGroup>
 </Project>
