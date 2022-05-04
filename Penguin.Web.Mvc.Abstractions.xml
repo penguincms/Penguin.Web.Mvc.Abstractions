@@ -4,12 +4,12 @@
         <name>Penguin.Web.Mvc.Abstractions</name>
     </assembly>
     <members>
-        <member name="T:Penguin.Web.Mvc.Abstractions.IViewRenderService">
+        <member name="T:Penguin.Web.Mvc.Abstractions.Interfaces.IViewRenderService">
             <summary>
             Defines a class that renders MVC views to Html strings
             </summary>
         </member>
-        <member name="M:Penguin.Web.Mvc.Abstractions.IViewRenderService.RenderToStringAsync(System.String,System.String,System.Object,System.Boolean)">
+        <member name="M:Penguin.Web.Mvc.Abstractions.Interfaces.IViewRenderService.RenderToStringAsync(System.String,System.String,System.Object,System.Boolean)">
             <summary>
             Renders a view by path, to an HTML string
             </summary>

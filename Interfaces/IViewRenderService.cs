@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Penguin.Web.Mvc.Abstractions
+namespace Penguin.Web.Mvc.Abstractions.Interfaces
 {
     /// <summary>
     /// Defines a class that renders MVC views to Html strings
